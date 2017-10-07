@@ -1,17 +1,17 @@
 /**
- * ORDENA«√O QUICKSORT A PARTIR DE ARQUIVO TXT
+ * ORDENA√á√ÉO QUICKSORT A PARTIR DE ARQUIVO TXT
  *
- * UNIPE - CENTRO UNIVERSIT¡RIO DE JO√O PESSOA
- * CURSO: CI NCIA DA COMPUTA«√O - 4∞ PERÕODO - 2017.2
- * MAT…RIA: ESTRUTURA DE DADOS II
+ * UNIPE - CENTRO UNIVERSIT√ÅRIO DE JO√ÉO PESSOA
+ * CURSO: CI√äNCIA DA COMPUTA√á√ÉO - 4¬∞ PER√çODO - 2017.2
+ * MAT√âRIA: ESTRUTURA DE DADOS II
  * PROFESSOR: EWERTON M. SALVADOR
  * ALUNO: ALVARO PHILIPE ANDRADE DOS SANTOS
- * MATRÕCULA: 1610015475
+ * MATR√çCULA: 1610015475
  */
 
-OBSERVA«√O: 
+OBSERVA√á√ÉO: 
 
-Os elementos lidos a partir do arquivo TXT s„o adicionados a uma lista sequencial
-est·tica, por isso o n˙mero de elementos adicionados a lista È limitado.
+Os elementos lidos a partir do arquivo TXT s√£o adicionados a uma lista sequencial
+est√°tica, por isso, o n√∫mero de elementos adicionados a lista √© limitado.
 
-Tamanho m·ximo de elementos que poder· ser armazenado na memÛria: 100
+Tamanho m√°ximo de elementos que poder√° ser armazenado na mem√≥ria: 100
