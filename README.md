@@ -1,5 +1,10 @@
-# Centro Universiário de João Pessoa - UNIPÊ
+# ORDENAÇÃO QUICKSORT A PARTIR DE ARQUIVO TXT - LINGUAGEM C
 
 ```sh
-Estrutura_de_dados-UNIPE-P4
+Script para listar  usuários que possuem a shell BASH e possibilitar ao administrador as funções de:
+troca de shell, de senha ou sair do script.
 ```
+
+### Desenvolvedor:
+
+* Alvaro Santos
