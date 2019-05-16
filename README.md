@@ -1,8 +1,10 @@
 # ORDENAÇÃO QUICKSORT A PARTIR DE ARQUIVO TXT - LINGUAGEM C
 
 ```sh
-Script para listar  usuários que possuem a shell BASH e possibilitar ao administrador as funções de:
-troca de shell, de senha ou sair do script.
+Os elementos lidos a partir do arquivo TXT são adicionados a uma lista sequencial
+estática, por isso, o número de elementos adicionados a lista é limitado.
+
+Tamanho máximo de elementos que poderá ser armazenado na memória: 100
 ```
 
 ### Desenvolvedor:
